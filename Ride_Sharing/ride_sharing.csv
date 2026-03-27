@@ -1,0 +1,501 @@
+,ride_id,city,hour,fare,ride_status
+0,8c2f0283-9cab-4c86-bf82-c5e6623060c7,Chicago,10,47.47,No Show
+1,0bf58ce2-3d61-41d9-9878-9e55f0ad988e,New York,0,24.45,Cancelled
+2,cc1866e3-3050-4cf5-be75-8705a38e5013,Los Angeles,3,48.05,No Show
+3,54e82cdf-7b34-467c-a5b9-b80bb1f52829,Houston,11,12.54,Completed
+4,697ebb0a-d792-407e-ab71-4621a5e76b6e,Los Angeles,23,22.28,Cancelled
+5,c7c195b7-67ca-4a43-8cbe-e97db7c5496a,Chicago,21,21.71,Cancelled
+6,5f56e4b9-26ff-4894-aac9-0a4f71a8c772,Chicago,18,35.89,No Show
+7,f5dc6f9e-bb3a-4074-867b-18ae2eab0282,San Francisco,14,48.91,No Show
+8,3d8f641b-b5a0-4ac8-8f45-ab45c106f118,Los Angeles,18,29.29,No Show
+9,9ffb9a72-b0fd-43f3-b3ac-45cf9cca5776,New York,18,17.84,Cancelled
+10,1114bb46-4fba-445b-bfe0-cb6374a80d40,San Francisco,20,21.01,Cancelled
+11,a3bed7c7-8ea6-4f29-934a-02887a840daf,New York,5,21.61,No Show
+12,54ae99a1-2354-4d7d-ba64-b6a48e1b2a5b,Los Angeles,14,19.9,No Show
+13,22f44440-7cdb-41fc-b1a7-143384ac0221,San Francisco,11,8.85,Completed
+14,d0c60799-4aba-482a-bac1-494bb8216dd2,New York,5,48.4,No Show
+15,ab128f79-be12-436c-92d9-ff73cc52dedc,San Francisco,14,31.29,No Show
+16,797bb2bc-85c7-4fda-a72e-a91c3c800736,New York,3,27.05,No Show
+17,19dc7ab3-7a4d-4b23-a860-75b7be63209c,Houston,12,39.99,Cancelled
+18,4832509c-7873-4479-9e66-2165ce032b36,Chicago,15,41.69,Cancelled
+19,07d56732-6100-4316-8613-f59d6540a424,Chicago,0,47.73,Completed
+20,cf7f133a-2217-453e-98f7-6252ef7c83d4,New York,3,20.01,Cancelled
+21,22c713d6-8fd1-4b06-bdb0-03d0d0ae3e32,San Francisco,17,24.08,Completed
+22,7ce65056-3361-4871-97e5-e818163a28a6,San Francisco,9,46.35,Completed
+23,1b2f2f4b-c9cb-443a-84fc-b54f6e37a569,Los Angeles,8,25.68,Completed
+24,1cec16b9-9454-4855-b6b3-970e6322ac8e,Chicago,23,16.53,Cancelled
+25,948a173d-8375-4c78-9b5f-8360898d917b,Chicago,4,49.88,Completed
+26,b8f292b2-b5b3-43fe-9a95-2d7fdd613919,Houston,12,13.62,Completed
+27,08aee769-5cec-4a6e-80da-fe9fcfe26b31,Los Angeles,12,10.62,No Show
+28,76abf998-df41-4ef8-a69c-d729db8a2c35,New York,6,48.31,No Show
+29,6f5f681a-99c5-4c63-b04c-637bd623fa36,Houston,4,15.57,Completed
+30,597294f8-33f9-48d9-ab91-eca09d2d62cf,Los Angeles,22,37.01,No Show
+31,1d37cbe4-ed5d-4cd6-8c19-90a2351c8290,Chicago,23,13.4,Completed
+32,2cf73fa6-80f8-473b-bedd-59715bb4ac23,Houston,11,29.27,Completed
+33,b2076194-6c97-4e12-a1a9-2579fc1b68d6,New York,17,41.15,No Show
+34,271cbd61-9936-4163-8156-bc97ab16c76b,San Francisco,8,40.33,Completed
+35,ee86dd35-e5c0-4211-92fa-f48fe3f64522,Chicago,18,38.39,Cancelled
+36,8f869006-3b39-476a-8b58-98fc4e50b7f7,Houston,4,36.03,Cancelled
+37,f5ad1171-1143-4814-ad37-79d889a91558,Houston,4,33.77,Completed
+38,99c9f199-0376-4e04-abae-46a2b076f150,Chicago,14,22.15,No Show
+39,d4bf0667-1e73-421f-a1da-973c6cb92be5,Los Angeles,10,26.25,Cancelled
+40,8b8d945c-d84a-4b9d-b087-abef130185ae,Los Angeles,9,44.62,No Show
+41,4c0fd6b9-e2bc-44a7-9938-e6301d8b9255,Los Angeles,10,23.13,Completed
+42,c53627b4-63dd-464d-b334-3c110b90ab59,Houston,9,24.48,Cancelled
+43,fdd8bccf-b5e7-4a6c-b496-83dfc0b29a8a,San Francisco,18,25.64,Cancelled
+44,cab79b32-fa12-43fe-9aa9-ce2f274abfcc,Los Angeles,21,15.83,No Show
+45,95dc3ec2-51cc-4341-9e4a-9d74b7880a6d,San Francisco,3,8.58,No Show
+46,523e5596-c9af-440f-9a64-907b34931fec,New York,4,11.87,No Show
+47,b1775796-61ac-4606-92b0-cda144052aa8,Chicago,10,23.55,Cancelled
+48,a565702d-31e0-4eeb-b114-213043f232e0,Los Angeles,6,14.72,Completed
+49,efc27dc4-8552-4fa1-86b7-bb5346e739c0,San Francisco,3,23.08,Cancelled
+50,4f28e6cc-e13a-4101-ba17-0a3b47581af3,San Francisco,0,34.91,Completed
+51,d1b3293c-b860-485e-852c-6d25bd4329b3,Los Angeles,14,29.45,No Show
+52,3d3cafc1-e395-4db3-b77f-81b8115bfc33,Chicago,5,23.37,No Show
+53,00e63bdc-66d6-4d06-8474-3bd220b3425f,Los Angeles,2,28.46,Completed
+54,fabf35e9-5f11-410a-bc0e-074844b5cb98,Houston,18,42.66,Completed
+55,3bea797d-5d28-44f8-8ccc-a02ec73a64b1,Chicago,2,42.21,Cancelled
+56,cd76fc25-7b03-49b0-919c-66783beb922d,New York,12,17.61,No Show
+57,25abf3a6-0b47-479b-a864-f8dd2e60be4d,Los Angeles,12,13.47,Cancelled
+58,79e4b8c1-3f08-4309-9403-60eb0bfc367f,New York,2,7.05,No Show
+59,7b2e119c-80dc-4c12-8ce1-27457c80fa68,Houston,9,39.03,Completed
+60,bbe51c75-0014-4cf6-8f68-117c41335ea6,Chicago,12,24.32,Cancelled
+61,0954b3b8-579a-4bcd-bb57-1d873e2bac59,Houston,10,8.59,No Show
+62,15a7ee5e-681d-41a7-a180-20729947c049,Chicago,2,41.05,No Show
+63,ba7b9d1a-5964-4b76-a646-6e0d8477c231,Los Angeles,3,20.44,Completed
+64,d57886f0-5d9b-4cf0-b1e8-1e398fe1acc6,Los Angeles,15,14.32,Completed
+65,4997feee-75fc-4860-9412-931a457b346c,New York,2,21.46,Cancelled
+66,4741fc61-840f-4c0a-bcb4-a1216ca850e6,New York,1,29.39,Cancelled
+67,febd6314-a7b5-4582-baf8-de6ef514912d,Los Angeles,3,24.24,Completed
+68,8a1a4ef8-2ae2-4455-966f-e8a741f7a60e,Chicago,8,10.67,No Show
+69,2c77c42d-3d0a-4b07-8403-88acf25d2019,San Francisco,6,42.23,Completed
+70,b37e042a-51e4-4d6e-b2c0-0c1e9912f3fd,San Francisco,17,47.4,No Show
+71,da736c6a-248b-49a4-928d-db96f4754615,San Francisco,23,8.19,Cancelled
+72,7c58bb53-23be-4b2e-91d6-742751b99302,New York,13,40.3,No Show
+73,fbddb853-ed98-4082-9871-81ac98e74a95,Chicago,19,6.64,No Show
+74,7ce78834-7e7e-419f-9928-570ee3d4d84c,San Francisco,17,20.69,Cancelled
+75,dcbae424-1aff-437d-bc39-70a00c570ff8,Chicago,10,26.08,Completed
+76,3656e539-53dc-4d47-bea5-c35c1a7e225e,Chicago,2,45.39,Completed
+77,a1632fd0-02b2-44c9-9994-752adb9f9f5d,Chicago,6,12.66,Completed
+78,49b6924d-7a48-4898-a7d8-189be677e7f2,Chicago,0,40.38,Cancelled
+79,85fea010-5cc8-43b8-b380-007b3ed5345e,New York,20,41.45,Completed
+80,e501e3d1-cddd-4c50-89ca-918276fc0b8c,San Francisco,2,22.94,Completed
+81,f3132d51-1c67-4702-9030-997106fa6aba,Chicago,10,44.74,Completed
+82,7ef92295-b745-480f-8dd0-4d5152fadf86,San Francisco,21,29.52,Cancelled
+83,a7df6d1d-6aa2-4b52-8a5f-1b93aa74abe2,Los Angeles,19,30.86,Cancelled
+84,0f98e5da-9f85-40e7-b604-fa85141cfa39,San Francisco,11,7.51,Completed
+85,528431d7-1c89-4c76-9b81-abe1f3584ce1,Los Angeles,15,41.69,Cancelled
+86,f987695b-4d80-4145-a948-0948d097f9dc,Houston,0,9.87,Cancelled
+87,3d52d76d-33a0-4aab-ad86-df60cca3f7c5,San Francisco,15,7.82,Cancelled
+88,9771b7f2-5fdc-489d-ac93-a5efb9642e94,Los Angeles,20,27.57,Completed
+89,85deca64-c06d-450e-b911-6bfd3b2fba1b,New York,22,30.95,Completed
+90,7a468a01-4477-465f-a93e-eed450c4b882,San Francisco,18,14.21,Completed
+91,8d0e18c3-09c7-4ccc-8e97-0839700f0d8a,San Francisco,0,44.95,Completed
+92,c731fc8d-3682-4928-a908-7256b4b8e119,Houston,2,26.82,No Show
+93,5040a82b-df27-476b-a3ef-6a3afa4e7fff,Los Angeles,22,9.08,Completed
+94,1a3b48b5-4d14-460f-971f-0ccb2dbd389e,San Francisco,1,12.54,Completed
+95,ae9e2e22-2887-471f-bb38-9e6349720881,Houston,12,13.87,No Show
+96,2aaf2c6f-7163-4df7-bb0e-11de59f375d1,New York,14,43.52,Completed
+97,7d0323ad-89dc-4d13-ab9f-be7743931bd8,Houston,11,36.98,Cancelled
+98,47407865-42c5-4178-b4b3-eb6b111a8c84,Los Angeles,20,49.39,Completed
+99,4f27eeff-0454-4486-9a66-5657c664eef9,New York,18,30.75,Completed
+100,1527d758-e927-456a-8dc3-82f96e235a0c,Los Angeles,5,42.71,Cancelled
+101,275905b0-07aa-4e26-8a41-5a63c5b06882,New York,11,29.57,Cancelled
+102,1cd20a12-ec16-45e1-9c39-6979495e624a,Los Angeles,4,46.57,Completed
+103,77a80677-0730-474a-a7b4-50f3f4318e51,San Francisco,10,26.76,No Show
+104,5c66049c-0450-4c2f-84ff-ac74364b498a,Houston,23,7.59,Completed
+105,5fbd5464-1c2e-4e89-9893-42ce25e36b54,Los Angeles,21,31.65,Completed
+106,eff985a2-b678-48ec-b70b-7127a84bb1a7,San Francisco,19,15.89,Completed
+107,b5ae1e14-420b-43ce-a082-3ad4568a431d,New York,2,42.87,Completed
+108,460cce2a-495f-4a2c-ab07-d1b41fdd2b30,Chicago,1,7.65,Cancelled
+109,f2ff0e2c-bc81-4ad9-a8bf-5de68d072fcf,San Francisco,17,48.94,Completed
+110,58c5f9b0-1552-4f88-801a-8f072700b1f0,Los Angeles,1,31.61,No Show
+111,61f356ca-ae65-42fd-83b2-ee8dd479c4e7,Chicago,16,25.67,Cancelled
+112,452cd7e8-fe2a-4ee2-8555-c57579d0d83f,New York,13,44.35,No Show
+113,9fa26626-7398-47ae-9e79-f16ad6935853,Los Angeles,4,19.16,Cancelled
+114,409facdf-3afe-469b-9472-06c263436803,New York,15,29.51,Completed
+115,a89be99a-d161-43f2-be8a-0be237a6b71f,San Francisco,23,18.5,No Show
+116,5c2bee28-ee97-48d9-ac95-8ec3cc66d5eb,Chicago,10,36.75,No Show
+117,6ffac316-f7df-4fe2-b8ad-bfe30980a85f,Houston,19,8.27,No Show
+118,7011a009-a247-46e9-94be-fa0c4d737988,Los Angeles,18,23.36,No Show
+119,9c34f894-92bd-4d40-825f-55120546130b,Houston,11,9.7,Completed
+120,7284dc35-b8f7-46f1-ace0-ac47a3fd3acc,New York,12,18.83,Cancelled
+121,66df1b33-c8ba-47e1-8ef7-3b3807664300,Los Angeles,3,31.1,Completed
+122,80310333-510e-4012-b257-1d567eb6c06c,Chicago,8,19.39,Completed
+123,2da7df3d-c40c-4d8b-b70d-ce27de081b2e,San Francisco,16,30.31,Completed
+124,54b1eb07-38df-4f69-a055-f838f118c84c,Houston,8,40.6,No Show
+125,56eb3ed2-4033-4d4c-8c05-fb9a5748e99b,Los Angeles,3,44.04,Cancelled
+126,6e483cab-9366-4cc8-9258-3b9c67929e9c,New York,10,27.95,No Show
+127,9f6c1880-7852-4e2f-b926-2f526df03355,San Francisco,22,12.41,Completed
+128,672a331c-0f88-4389-8e15-97c848566c0a,Los Angeles,23,17.2,No Show
+129,2ec88734-b672-4c1c-ac0d-d61e509335e6,Los Angeles,22,35.68,No Show
+130,54d281d7-29ef-46f7-b4b9-680d0444fd3d,Houston,23,36.39,No Show
+131,0988afb2-4b59-417b-803d-f060c5e0adff,Chicago,22,11.43,Cancelled
+132,832620de-4549-45a7-878a-d356a2c12159,New York,5,12.19,Completed
+133,281de579-fafe-4ee5-a3c4-e13a4daf5a07,San Francisco,2,9.42,Completed
+134,e3b9439f-8d89-4051-bbd6-8516da40e37b,Houston,2,5.91,Cancelled
+135,cda5ae0f-cbbd-4317-a823-59017fcb7e27,San Francisco,6,30.37,Completed
+136,873f5a04-7bb0-48f3-be25-59edd5e63c79,San Francisco,17,11.74,Cancelled
+137,89340bdc-2338-4536-b7b4-87de10c0a4e3,Houston,18,27.6,No Show
+138,84217422-730e-4802-9829-0bdcd8fe2d55,Houston,1,35.94,Completed
+139,723ba035-b042-45c7-be5a-a845fa54d533,New York,16,20.32,Cancelled
+140,4af4b03e-e243-4d60-8461-5b5741798bf7,Los Angeles,9,41.88,Cancelled
+141,3a8f9bf4-eb92-4141-ba2c-a06eb8a0f826,Los Angeles,4,5.9,Cancelled
+142,1b4839fe-ba46-4653-818d-62b7d65de2cd,Los Angeles,4,44.86,Completed
+143,869f350b-df7f-4c87-92b0-3ccd936b4770,Chicago,22,8.02,No Show
+144,29e34e2d-17ce-48fa-a715-57b4f93436d9,San Francisco,19,30.59,Completed
+145,c0641a4e-a51b-498d-9607-64467ecb231c,Los Angeles,5,6.03,Cancelled
+146,7fc5b6a1-d4df-42b4-ac93-659c001b73de,Houston,2,17.8,Cancelled
+147,5e7a6ca0-0133-49ea-93b8-fc78c94970a7,Los Angeles,16,5.77,Completed
+148,fcb55ca5-ea73-4694-8dbf-60446b7f5214,New York,20,49.22,Completed
+149,02fe107e-d6d6-47f9-a337-6333eaea75ae,San Francisco,20,28.78,Cancelled
+150,e5f01fed-715a-4ee6-b77c-8f7838977b8b,Houston,12,27.57,No Show
+151,729fb9a1-f4a0-4a87-8cc5-5edae72b29b7,Chicago,17,48.4,Completed
+152,d3ea68b3-48ca-4fc1-a4be-3f1c9129ddaa,Chicago,14,48.48,No Show
+153,ed0d882c-80f3-4418-ba53-9f970e0f9195,New York,21,6.41,No Show
+154,fce9cd7b-cc24-42c7-ad7c-1a99e9ec4bdd,Chicago,16,27.25,Completed
+155,6536cac8-8786-4320-81f8-bb65cecaa298,Los Angeles,13,45.15,No Show
+156,4b7c8849-0d1f-4bfc-b89a-7f632ac3fbb4,Houston,11,30.95,Cancelled
+157,d4d16ca2-7935-4bda-a0ad-4808e31200e1,New York,6,8.26,Cancelled
+158,f4360f73-2f64-440d-bb0d-8c760afa7748,San Francisco,20,29.94,Cancelled
+159,e10f0fd5-d18d-4cf7-b51d-76f29e430d5c,Houston,1,5.0,Completed
+160,c942158c-32aa-42dd-a3ba-e56c2a33d8ac,New York,2,11.84,Cancelled
+161,d196aa8c-ebf7-4a9b-a9ae-27810ac1131b,Houston,1,18.07,Completed
+162,250b8b2a-2a38-4cfa-bba1-7f3f5e45230c,Los Angeles,16,31.68,No Show
+163,723a8b94-31b8-464f-a323-de672fb0bf91,Houston,2,48.02,No Show
+164,ebbeea43-e668-4610-8644-b444dfa8311d,New York,0,41.56,Completed
+165,fc1b233d-dbf5-43db-88a5-79fd125d5f39,Houston,10,18.72,Completed
+166,3803fe37-500f-49d1-b9e1-851b7c84d32c,San Francisco,1,10.67,Completed
+167,d544c04f-0837-4f51-82b3-dc3084e444dc,Houston,10,38.37,Cancelled
+168,15c6923f-1876-4e6e-87ef-da4b9520673e,San Francisco,0,48.77,Cancelled
+169,1f706a0f-8961-4fc5-ae1a-3042eedf8273,San Francisco,6,29.72,No Show
+170,cf7f90a1-5b79-46c4-9746-12dbaaf2fe3c,New York,3,6.67,No Show
+171,503e7a3b-689b-4940-ab55-dc85a40da67f,San Francisco,20,46.12,Cancelled
+172,e2d418c5-6f6b-43de-8a70-d2a3d2d06d5f,Chicago,1,36.65,Cancelled
+173,f97635b9-fa71-4d95-aab5-0f0962d6e344,Los Angeles,13,5.6,Completed
+174,48fc7b51-37d0-451d-b6f2-8692f72b927c,Chicago,15,34.37,No Show
+175,5515ae93-181d-4de0-9507-465b7c8ceb05,New York,10,43.4,Completed
+176,4a3c21f0-84bd-42cd-84e7-e7826ee5edcb,San Francisco,19,32.37,Cancelled
+177,5a6edf9f-25ab-48c4-8cde-264bae0787a0,San Francisco,9,27.0,Cancelled
+178,593e2ffc-0df0-4ac6-b48d-b7b199178870,Houston,23,15.39,No Show
+179,ad704c53-b71c-4a38-9cfc-b503b99294d6,Los Angeles,8,33.48,Cancelled
+180,9ff24e7a-46a9-4dbf-b604-a7a979862854,Houston,22,32.63,Cancelled
+181,5e7d89ff-abbe-4d42-bb6e-e097daa894d5,Chicago,6,7.93,Completed
+182,1ad1bde8-7ede-4e51-952c-4bc2d03125fa,Houston,22,28.25,Completed
+183,6545fc9a-19e7-4361-bdb8-d9dc48a75a37,Chicago,22,28.27,Cancelled
+184,0388f4a2-3ecd-4e71-b9c8-72dd23234714,San Francisco,16,26.24,Completed
+185,87bb16a7-5aa3-4191-9d2c-b6a99129c7b3,San Francisco,16,7.29,Cancelled
+186,dc120c4a-40e8-44ee-a9ef-a82865fc1640,Los Angeles,23,8.12,Cancelled
+187,bb61deb8-e744-466f-9aee-dcfe94331db4,Los Angeles,12,30.9,Cancelled
+188,08ff0177-ed80-4d74-ab04-e3ae06324b00,Houston,9,18.58,No Show
+189,77ef4bc0-acaa-48f7-a440-b7f71c001ffd,Houston,23,42.65,Cancelled
+190,da448855-1e55-4e71-988c-cc6e132276ab,Houston,17,15.99,No Show
+191,4e9b1882-65e8-4108-beec-3431d80fd1b8,Houston,13,28.53,No Show
+192,7976c044-3faf-42be-b322-90e2b7ed2b67,Los Angeles,5,14.42,Cancelled
+193,1dcf6d0f-8e38-4f81-a492-d019070bf3ac,New York,13,32.6,Cancelled
+194,bbc2bd3f-c01f-4fea-a525-d79ddfe9a3ad,Chicago,1,35.65,No Show
+195,98bd54be-4ef6-4f33-b658-ae1fd2260e7a,Chicago,6,49.8,Cancelled
+196,11d6edce-ebb0-40c8-b6ac-a37b205fd8ea,Houston,17,40.45,Cancelled
+197,7ff00525-b0a8-45bd-bcb8-5193f1800390,Houston,14,19.01,Completed
+198,e9df91fe-42b8-42c5-ab95-2fd4411c7685,Los Angeles,7,30.84,Completed
+199,21bce003-f83f-49f6-8b38-ecc66410182d,New York,11,11.64,Completed
+200,59994cf5-a69c-494d-a237-04a1a26020b2,Los Angeles,21,49.1,Completed
+201,45ad41e8-872a-4505-b4db-826f737cfb14,Los Angeles,3,21.16,No Show
+202,e5ac4a6e-2360-430a-9655-d76cda6514af,Houston,6,21.31,Completed
+203,c9a2b1da-d484-4154-af12-7a31dde07c06,Chicago,4,25.31,Completed
+204,e3050d3f-a2df-4233-a710-98a28d2d9827,Chicago,12,12.45,Completed
+205,42c2e63f-7156-448e-bb6d-f0e93b3bb51a,Los Angeles,3,49.31,Completed
+206,92491fc4-9d13-4c86-8e98-8c8d7a5e37ff,Chicago,5,37.62,Completed
+207,56ba15e8-1e30-4efc-879c-44bd382e5e52,Houston,13,18.32,Completed
+208,58be7636-08cf-43bb-a22f-d80f9b1e4996,Chicago,6,13.03,Completed
+209,54d5b270-b732-4537-86fa-cf9d61e702ed,San Francisco,18,10.65,Cancelled
+210,4d2be0da-c00e-4206-8295-ab2f63868d07,Chicago,3,13.29,Cancelled
+211,98f86cbf-2772-44d7-ac5b-6ac83d271241,Houston,16,48.05,Cancelled
+212,6761323f-6e3b-43b7-90ab-b15309e460e4,Houston,10,32.33,No Show
+213,afd42990-5922-40b8-8ae3-dd6fbba907cd,New York,19,42.76,No Show
+214,85827632-2037-4ec7-884c-0c68055cbb41,New York,18,30.2,No Show
+215,f0388937-e176-4848-87ae-fc24e86037d3,Los Angeles,1,32.2,Cancelled
+216,05ea5673-b2cc-4363-a56e-963f92d057d2,San Francisco,8,44.7,Completed
+217,b6411e7e-d37e-47fc-97bd-3c4df14ac9b0,Chicago,13,47.01,Cancelled
+218,8c507a56-a3a2-4e5a-a1c3-2dc662b7d887,Houston,5,38.15,Completed
+219,9c27196b-d4a7-4f83-8d6e-77313c2f2012,Chicago,23,11.27,No Show
+220,794613f6-b3d7-4bb8-beb2-d5c6098fe52d,San Francisco,0,40.05,Cancelled
+221,ca223dc0-7c30-4c6c-badb-6e73cda8c830,Chicago,14,32.36,Cancelled
+222,3fb3589c-e6ad-4f08-b048-37f04f43d34b,Chicago,17,32.22,Cancelled
+223,f3e3bee4-bcbc-48cc-9e96-bd807e99f8ad,Houston,6,16.42,No Show
+224,d3ea0c02-7801-45e8-99ed-1d11c0337f0e,Los Angeles,18,47.66,No Show
+225,85c2be28-274b-4504-b2d5-82ed917d7a39,Los Angeles,21,16.75,No Show
+226,ffda16f2-8060-44f1-bf63-1e475e0b1d91,New York,0,26.31,Completed
+227,a5f83cb4-8336-4601-bf42-53400827bfd9,New York,19,48.13,No Show
+228,bb973d11-3c2b-425c-9ed4-9573dcf5388d,Houston,17,46.39,Cancelled
+229,75bf4fcb-1e23-4daa-bcac-cbdd625c4770,Houston,4,35.13,Completed
+230,3aab3e2a-35b4-4c4f-9de4-6b703c305b0a,Los Angeles,13,47.26,Completed
+231,4c8c306c-d359-44bd-8f4f-e15b06855cd8,San Francisco,14,35.71,Cancelled
+232,3cf44112-6b2a-4903-bd4a-4924fcdd725e,San Francisco,3,20.83,No Show
+233,6e48b40d-3f35-4f76-a3fa-4d2780fb6bab,New York,0,42.97,Cancelled
+234,631773c5-bd1d-4e53-b150-0b36862b4d00,New York,21,43.3,No Show
+235,93b0b987-6730-4908-bcd4-e44ac5b45c3b,Houston,12,15.09,Cancelled
+236,d56877ed-6479-4250-8906-96a4168dba67,Chicago,2,31.54,Completed
+237,916bafb9-52d6-40b9-8a5e-1a4f7e2b9e5c,San Francisco,17,8.97,Cancelled
+238,bd7603d4-e5c4-440d-9669-f558621a05d1,New York,22,20.87,Completed
+239,81418f18-91d6-45dc-84cc-59e1e888a929,New York,21,10.25,Cancelled
+240,56c24fb7-bdb4-44b8-a554-864ef383d8d0,Chicago,23,35.27,No Show
+241,6a639694-cf87-489a-bd01-e361f73adfa1,San Francisco,16,29.91,Completed
+242,c834c604-8dac-433f-80ed-ea19a05301b2,Chicago,22,9.15,Completed
+243,fa3fc258-ba8a-40f9-a3df-6a8bde1b1adc,Chicago,12,9.75,Completed
+244,76ae6c06-1f27-4277-b9c8-8ef9c0faf097,San Francisco,16,18.67,No Show
+245,b82c6c6f-1861-4150-b0a3-3df69eb8305d,San Francisco,1,45.0,Cancelled
+246,9f8d9d04-8b58-4aa5-8dce-c6c65a03c6ea,New York,4,16.41,No Show
+247,d534992d-2071-4b18-9d31-acb6c270021f,Los Angeles,0,31.95,Completed
+248,98cc8c50-5421-48cc-8d9e-3c184fe0c431,New York,0,42.51,Cancelled
+249,60f12fea-31bf-45e2-b55b-cd9b07f2c9bf,New York,23,16.16,No Show
+250,b7ffa186-8614-4024-9cc2-191a9401d4f2,San Francisco,22,25.02,Cancelled
+251,3ff118d0-df2c-4786-9534-0cf681b887ac,Chicago,0,35.79,No Show
+252,1f8ecac9-20c4-4d8b-b301-dc104040c957,Houston,1,24.82,Cancelled
+253,62df53a6-056b-4a9e-8b45-3647286887cb,Houston,19,9.46,No Show
+254,4e1c42f5-2567-4a1a-8b7d-cea5489f4b30,San Francisco,0,29.8,Completed
+255,493f07ed-4e24-4e52-8d51-727f9e471347,Houston,11,36.22,Cancelled
+256,28d35769-4014-4068-b246-443930ceaff6,Los Angeles,1,19.32,Cancelled
+257,1d5efdd2-937e-41ff-9bf2-10f01a61920d,Chicago,6,42.01,Cancelled
+258,ffd76464-fc07-4091-bda2-5dd561881dc0,Los Angeles,21,18.42,Cancelled
+259,bdce1748-52c8-4a70-8c1e-475fa44f4fac,Los Angeles,8,25.09,Completed
+260,6ed2cd87-3eaf-41d2-8c5d-b87660002ad9,Los Angeles,23,26.44,Completed
+261,0a9939e8-6eab-4f51-8e0a-9d473026fad3,Houston,14,12.05,Cancelled
+262,14ee0acc-e711-4565-ac91-708fbfccbbba,Chicago,15,26.49,Cancelled
+263,b5abfa90-56dc-4fd7-8b87-c98576f353a4,Houston,4,16.34,No Show
+264,0c6ecb8d-ec39-4995-97de-513320b8ed8e,Los Angeles,18,14.41,Completed
+265,07d69e30-d4ba-4df7-b99b-895252c03f90,Los Angeles,2,47.93,Cancelled
+266,c231d49f-80ad-40ee-9f83-923c4f4de230,New York,18,22.48,Completed
+267,cca77dc4-16a2-49aa-a117-07f232eec041,New York,23,24.7,Completed
+268,b9c5729e-3f3e-4edf-b9e7-0bc6795648d2,San Francisco,2,29.76,No Show
+269,206b58dd-3fc6-4038-9d72-4788ed924067,Houston,22,10.61,No Show
+270,8850f8f9-da05-4698-88e6-19db452fa2f3,New York,4,31.18,Cancelled
+271,9b9f64d5-0cd5-4df0-bbef-c36459813a3b,Los Angeles,20,26.53,Cancelled
+272,1e670c20-9b48-42b3-b498-c98d142aa6ff,Los Angeles,2,49.51,Completed
+273,7ec3bf71-d202-42b4-8a86-513b19b7cca4,Los Angeles,3,35.85,Cancelled
+274,024f085d-c472-4db4-8feb-0be5850037b3,Chicago,3,14.52,No Show
+275,f885b4e1-99c3-41f7-af20-4d0463ca338f,Chicago,7,25.74,No Show
+276,ae1f2cac-5cff-495e-b1f8-4efbc063420d,Chicago,2,43.6,Completed
+277,a6f6380e-cd90-4e81-aa43-b6fabf6278b0,Chicago,1,41.22,Cancelled
+278,fc7cc0d2-d9f0-4022-b58c-45221887538c,Los Angeles,21,41.46,Cancelled
+279,df6daa55-b4dd-456d-99b9-ce895a5858cf,Houston,16,41.29,Cancelled
+280,1122d067-41d9-45bf-a289-8f2760955b56,Houston,1,39.11,No Show
+281,4f10521e-881d-474b-8925-6248a8260ca7,New York,1,45.66,Completed
+282,c87ed111-cdfa-43fa-8af1-fb6b43b3c1b1,Chicago,3,48.7,No Show
+283,1b547483-7da5-4849-b3a5-2cddddb3aff7,San Francisco,22,48.12,Cancelled
+284,fad3042c-439a-45c7-bb35-25bdeae66006,Houston,2,45.34,No Show
+285,2d4523a0-d53f-4431-9bb2-4b7a37f514f5,Los Angeles,3,13.26,Cancelled
+286,5d830ce5-a989-4f3e-adc8-cb5f8a2fc165,San Francisco,3,33.34,No Show
+287,bdcfaebe-8b79-40b6-979e-f91a3d0c77f4,New York,3,40.77,No Show
+288,590e73d5-7455-4ed8-816f-4a43d8987dbd,Chicago,16,42.66,No Show
+289,2e1ca76e-a51a-481f-a236-b2a0f7fa57ad,San Francisco,2,21.99,Completed
+290,b7e47190-aa9a-44c1-a312-886f7ed35f5c,San Francisco,22,28.67,No Show
+291,5bcd3f25-9339-4db4-9068-8cbbec5e10f8,New York,3,7.9,Completed
+292,a63e07ab-4f42-46d7-bf32-dc8e5cd77678,New York,16,34.85,Completed
+293,e99eee84-5143-4326-95e3-4ccad6aad896,Houston,6,48.03,No Show
+294,9be4f2b4-662b-407c-b6d9-d39ab735f67e,Los Angeles,23,33.39,Cancelled
+295,aa3e3c10-e23a-43d3-9a22-8adf311726e7,Los Angeles,21,25.31,Cancelled
+296,bca2a19f-93e4-4f79-967b-a2cfd0280d76,San Francisco,20,18.37,No Show
+297,08f78a36-9ee7-479c-9159-06589ad602d5,Los Angeles,14,12.29,Cancelled
+298,940ed5f0-ddc4-4deb-acc9-41e12475ac1f,Houston,3,33.76,Completed
+299,74be113f-2755-4bc3-9fbd-7617c8a7fc7b,Houston,2,8.53,No Show
+300,4bfbb0c9-244b-42af-a870-17caee53fa90,Chicago,12,45.3,Cancelled
+301,c38e3fb5-3e5c-4b98-8e52-768f1f325664,New York,16,38.98,Cancelled
+302,5a0daf9a-75e0-4fb4-b561-c4588444b393,Chicago,4,46.1,Completed
+303,ec3dbd29-1867-4ce1-b232-e1ac47559dab,Houston,1,42.87,No Show
+304,1f0ab281-3dd1-4799-95fa-007ef3b9a308,Chicago,23,29.1,Cancelled
+305,49c7dc2c-6a8c-4da9-896c-3af0f1e2db78,Houston,3,48.64,No Show
+306,d496a4e0-66b2-4c3b-9196-08b059336b5b,Houston,8,35.46,Cancelled
+307,ae2608bb-a559-462c-8b25-997fa7d2c1eb,Chicago,18,42.38,No Show
+308,c0aa25e6-2011-4405-86bf-83db3c28d421,Chicago,21,27.54,Cancelled
+309,e3f7e47f-35ee-456f-969b-3647d0d87ca7,Houston,20,40.48,Completed
+310,e285b4ea-188b-4453-b1a7-73833c8262d5,Chicago,2,18.33,No Show
+311,9b007edd-5f16-4e35-b70c-6fa06d681324,Los Angeles,14,41.52,Completed
+312,c8d4a4a2-d041-4c30-b7e2-e5f7b90acbc2,New York,9,36.21,Cancelled
+313,6ff9c810-4d4b-420d-97d3-52924dcf3643,Los Angeles,9,9.1,Completed
+314,548d61ae-6580-475a-8a74-781e9d71dd4a,New York,17,47.24,No Show
+315,e1eebfd4-ca3a-421d-90ee-8ae17d8c780d,San Francisco,1,28.07,Cancelled
+316,3e972820-7ad2-4061-8a4a-deabf2016e99,New York,19,32.66,No Show
+317,29beb6f2-e104-4c0f-b03a-368dc778dcca,Houston,10,15.98,No Show
+318,d1be1211-d5bc-4715-bb92-bc2515af6e85,San Francisco,6,37.83,Completed
+319,c7426173-8e17-437f-acc7-12c0ded9868a,New York,12,49.99,Cancelled
+320,a46adda4-f862-4dfd-bd05-072d5337054a,New York,22,18.95,Cancelled
+321,3da1630e-72bd-46e4-823d-844ebfa3a3c6,Los Angeles,14,12.16,Cancelled
+322,c0997f3e-bfa5-40be-844b-fba20a8ec5af,New York,2,25.87,No Show
+323,e023c849-7e79-41cb-95ae-334956555b07,Houston,23,24.74,Cancelled
+324,50353a21-c63a-400d-b0d0-5d8664f1621a,New York,5,5.0,No Show
+325,2e633adb-810b-4e84-8799-9b78db594f8b,Houston,3,24.63,Cancelled
+326,c699cde9-0fae-4a5a-b7a1-ebe5128eda3b,New York,11,10.92,No Show
+327,8c9b7b48-c44f-44ad-8aa1-4a8262e7093a,San Francisco,22,27.32,No Show
+328,57d797b8-c566-4a1a-b2db-cf71f5b2852c,Houston,20,12.15,No Show
+329,19f576ef-b2f8-4ebc-9f68-227f2464e329,Houston,10,26.84,Cancelled
+330,e43f5c6f-bfe6-420f-87c8-cbf2e3147748,San Francisco,4,40.24,No Show
+331,ed5322d9-9c92-4781-9ab8-837cbfb4d2ff,San Francisco,14,29.24,No Show
+332,1dd28b31-4359-4b20-9c52-ccaba5105d5c,San Francisco,21,11.96,No Show
+333,7f56b2e7-219b-4acf-997c-c4201585c513,Houston,11,17.04,Cancelled
+334,9b900290-8c18-47e5-95a1-55996a5b5f35,Los Angeles,8,12.75,No Show
+335,1791a8ae-c38d-4d69-aa23-1ae9b748ccc4,New York,22,7.9,Completed
+336,b023d6cd-97e8-487e-98be-553f370e5d79,Chicago,20,28.4,Cancelled
+337,84d427a9-2436-4a12-a2a7-1ff6748dec80,San Francisco,15,49.15,No Show
+338,8aa08733-365f-44e3-9aa3-ca97ba1e9ccb,San Francisco,23,45.37,No Show
+339,a28d62d6-b01b-4864-8912-e10588f6617a,Los Angeles,11,16.4,Cancelled
+340,c166c75a-4aa8-4adc-9983-31211b32196f,Chicago,13,17.16,Cancelled
+341,8ccb852c-a601-4db5-b7c8-0a463864e051,Houston,6,46.42,No Show
+342,5a804512-9b18-4759-a14e-de47dab18ed3,San Francisco,6,14.92,No Show
+343,feb6435c-7e94-4159-8deb-1930168b4ca4,New York,4,37.39,Cancelled
+344,f628b266-b9af-4b4b-a784-4d83b17fedd5,Los Angeles,12,34.13,Cancelled
+345,103cbae4-a63d-4bc4-8b95-f586700c18a8,Los Angeles,0,41.68,Completed
+346,7800e1f5-7bba-492c-aa84-3343715bd21d,San Francisco,6,19.37,Cancelled
+347,33958144-cfb5-465f-9d10-399aef813347,Los Angeles,19,23.92,Cancelled
+348,c8abb3d0-9c4f-40c0-a251-ba04d984051c,Chicago,5,10.68,No Show
+349,67230b1f-eb4e-4cc9-840d-bbc331d4d6e9,Chicago,13,46.01,Cancelled
+350,365f02d4-e129-41c7-a268-e41303769305,New York,7,41.73,Completed
+351,c33a3a1b-d88e-4f66-b81c-ed7fb86a14fb,Los Angeles,23,36.54,Cancelled
+352,5bde4c73-1f0b-4940-b266-de9fb36afbe5,Chicago,10,49.87,Completed
+353,c7a7c321-0b7c-4544-9e78-f05c948f7d25,Chicago,22,46.27,No Show
+354,8bf23a63-9792-486b-8854-ae8c17180c59,New York,4,34.13,Cancelled
+355,4bddd030-ef7c-4353-8747-54f7eff8db60,San Francisco,18,43.87,No Show
+356,5f2a20a2-a593-49b4-80e4-57933bb2054b,Houston,17,43.98,Completed
+357,91da3c0c-285d-40a1-b837-6617123457fe,Los Angeles,12,35.05,Cancelled
+358,06e3eb05-b6c6-4f6c-b025-6426c7fb5c90,Chicago,23,12.47,Cancelled
+359,5c77ca9c-349f-4c2e-bc30-27f32e5d9f2d,New York,3,35.31,Completed
+360,19b33160-915d-4047-b50c-e6b0e7d3fde7,Houston,2,34.2,No Show
+361,b94785e5-df2d-4d46-88b4-c26da632f715,Los Angeles,20,7.36,Cancelled
+362,253fbd7d-77a4-4b9f-91f7-a61644521eea,San Francisco,16,33.03,No Show
+363,1ad3ad43-750a-4d24-b233-64eae60c737b,Los Angeles,2,14.26,No Show
+364,f2fb9a96-e06a-4a2d-8786-fe5fc32c8f76,Chicago,8,9.39,Completed
+365,625db63c-dbf9-41d0-9ff1-2e09babf1643,New York,6,48.89,No Show
+366,bb0c58fb-d179-405d-a6cf-3cace683bf04,Los Angeles,1,24.14,No Show
+367,0938eb77-fdcb-4639-936f-1da63467bf9c,New York,1,46.88,Completed
+368,c9852ab2-cfdb-47d8-b6a5-ac05e07a29c8,Chicago,17,48.92,Cancelled
+369,d10649fa-8427-4fec-88eb-682b0b4440f5,Los Angeles,17,8.29,No Show
+370,052bad79-11e4-48be-b737-0a3e5c34a6df,Los Angeles,12,27.17,Cancelled
+371,ee2ae99e-3b32-49d4-96be-eedf38efb6d6,Los Angeles,19,30.2,Completed
+372,bc6c7f73-c693-4dcf-81d5-864796f2b5d4,Los Angeles,8,6.59,Cancelled
+373,a0d32db5-40ce-47c1-b88d-41a7d5e61511,Chicago,6,17.83,No Show
+374,222690ab-00cc-408f-9ebe-99718026e5d1,Houston,9,43.59,Cancelled
+375,2cef1820-65f0-4dfa-a61d-4e282f6276e5,New York,18,22.96,No Show
+376,f90ad3a1-590a-49f2-a745-9bcd15f39c71,Los Angeles,8,30.56,Cancelled
+377,7541a0ba-976e-4388-b64a-5fc780467c16,Chicago,3,8.93,Cancelled
+378,b03dad0f-98e4-4de7-98ab-b7f06df40784,New York,6,49.38,No Show
+379,f9094298-d45a-4b49-9cbb-83480fb3bd0e,Los Angeles,11,15.39,No Show
+380,621cd512-37f7-4889-b843-edb1c012fb13,Los Angeles,18,8.05,No Show
+381,b182f4f4-6a72-4f1c-a8f7-e51c36948f3b,New York,2,24.59,Cancelled
+382,66036df0-ee0d-4f42-a894-eb9e6d52818c,Chicago,23,40.99,Completed
+383,52343b9f-391d-486d-b02b-b2944b313bc0,Houston,12,31.46,Completed
+384,7aefd0c8-d47a-4cc3-8902-019ce89222ed,Houston,22,42.47,No Show
+385,682ddbb8-943e-4259-a71a-ba5d37576ca0,Houston,5,37.65,Cancelled
+386,9b58bba7-e687-443a-874a-8bc10407efa9,San Francisco,10,14.77,Cancelled
+387,924fd23c-dabf-46e1-9b0a-53c112ef0fff,New York,7,19.08,Completed
+388,d0d2a0a6-4ef5-41ae-9ca7-ce28d65f73b7,Los Angeles,18,23.56,No Show
+389,d87260ab-82b9-4ee4-9a97-f9ce0e846bfb,Houston,3,28.71,Completed
+390,8041d3d1-c8d0-4fcf-9a38-81adab0b5ec5,San Francisco,1,17.9,Completed
+391,481d5df3-be3a-4d8f-9d2e-77833a3b9b49,New York,15,42.81,Completed
+392,0a51320c-11cf-40eb-99e2-47d5d1217f1b,Houston,16,46.81,Completed
+393,2a5f805f-515c-43a3-98bd-8de4a4b08719,San Francisco,2,49.98,No Show
+394,15b54b2d-d3c5-4469-a1fb-18dffdd3e0ca,New York,11,11.74,Cancelled
+395,6d8ba63d-3e22-4db7-ae8b-4f0bf0342d92,Chicago,0,43.32,Completed
+396,0bd180e9-f0b0-4fd3-ac59-72971a5913d3,Chicago,20,22.91,Completed
+397,fd29f918-e4f4-4938-8e9d-baac7e21ce99,New York,6,36.26,Completed
+398,abe585e2-8c6e-4a08-bfea-76e57bc4e4d4,San Francisco,15,18.02,Completed
+399,5df1e327-9fdf-4aa7-82ab-d2d8a6abaec9,New York,20,19.36,Completed
+400,8247b622-6b58-47b1-a35d-5c3d64d0a6b2,Houston,8,39.07,Completed
+401,44f5e523-7327-4b17-a238-cb4338b74269,Los Angeles,10,34.51,Cancelled
+402,60941aa6-b32e-43da-8c50-34ef00781dae,Houston,4,48.33,No Show
+403,0df6e537-6e2f-4f07-b12c-7e42584a968d,New York,23,22.98,No Show
+404,2d08b997-d51e-405e-9eb6-ddfd7e007321,San Francisco,6,6.99,Completed
+405,e707b26d-9ca6-48b8-97b4-8af133faa201,Houston,18,21.7,No Show
+406,4b6d772b-19f5-4b9f-8354-ae5f9eaebafe,Chicago,16,13.37,No Show
+407,c9b6c0a6-6639-4112-ac01-9ea2af034a1d,San Francisco,7,46.85,Cancelled
+408,0e58c601-8798-406f-a890-0d3c9f07ed98,Chicago,22,7.24,Cancelled
+409,8207b1cc-b4a0-432d-86ba-768794b140e1,Houston,20,24.79,Cancelled
+410,59c6b005-5dfd-418e-bc0f-79f9dcb81a51,Chicago,9,37.45,No Show
+411,6a812fd5-2202-4707-a541-e3bba3b46421,San Francisco,2,34.2,Completed
+412,4c1802e2-09a4-4e09-a1c0-f4c31951b26f,Los Angeles,6,28.99,Completed
+413,6c1ff76c-0d16-482f-b70b-a2cb8e0ba367,New York,7,30.24,Completed
+414,b5b62bd5-da8f-4751-a6e8-f8c4255b5552,New York,21,42.8,Completed
+415,4f718a4a-3b4d-41fa-b27f-1cea2ebe45ac,Houston,8,33.58,Completed
+416,019b5ed1-a9f2-4024-a65e-dbe27abb76e8,New York,16,44.0,No Show
+417,e5ec9d86-862b-4fe8-afd4-4958b315545d,New York,0,37.76,Completed
+418,fdbd939d-5dd7-46fa-8f18-5a124011d018,San Francisco,6,16.84,Completed
+419,e0c7bd50-ecb9-4d28-80e8-7b7cd410de94,Chicago,4,24.42,No Show
+420,514ef67e-b6bc-42da-884a-6ff924757a19,Chicago,15,31.77,Cancelled
+421,94d668a1-db93-4e6e-a40e-1e5193ee4ddf,Houston,2,42.48,Cancelled
+422,9aad2fbb-a3b6-45c6-8686-2fad5732669e,Chicago,14,19.89,Completed
+423,21a24527-ec7b-4659-a95d-3d9cd23426c0,Houston,23,18.47,Completed
+424,6d7957c9-48a9-4ca4-8bd8-cf3537ee06d0,San Francisco,22,9.26,Cancelled
+425,6fd03945-3fd6-4bcc-b1b2-9fe604b1bdea,Houston,20,44.24,No Show
+426,f6a22e97-4d35-4ac0-8996-9d8570fdce16,New York,17,39.99,Completed
+427,4477a54a-1f30-4666-9fad-3d0e9717a139,Chicago,8,11.86,No Show
+428,e9248a4c-80b7-4ba5-b8b6-cb458daab28f,Los Angeles,16,25.11,No Show
+429,4d0a2493-3d12-4a45-b927-9438b8e5280f,San Francisco,5,40.57,Completed
+430,bdc3571f-9098-4109-8ae2-7e5755302e4e,Los Angeles,2,47.43,Completed
+431,07dee080-427e-4ddd-9e7b-9068ba904755,San Francisco,4,41.86,Cancelled
+432,594529a1-65af-446c-a1a2-66d75247b675,Houston,10,41.77,Completed
+433,6cbca4be-770a-4171-b256-e9de268e6d0a,Houston,3,13.05,No Show
+434,f649e74e-7e6c-4cd7-964c-b026988e4816,Los Angeles,7,16.39,Completed
+435,bc2a99d8-804f-4b1d-97ec-7e8845b3804c,Houston,9,32.05,No Show
+436,f0671890-9ee6-4dfd-b719-5c74fbf63819,New York,5,40.12,Completed
+437,5477df24-5067-48a8-83c0-ae22d74e937b,New York,13,48.63,Completed
+438,6dda9c6a-41d3-4dae-920e-604110d0423e,Houston,22,36.61,Completed
+439,adbd22fc-d463-488a-b5ff-fa2eda436231,Chicago,12,12.19,No Show
+440,006ad457-d974-454a-88df-33849d20bd27,Houston,19,17.56,No Show
+441,2c16374e-6c6b-4d51-9808-c2e0c13448da,Houston,4,21.01,Completed
+442,2c610162-cfd0-4b8c-bbcf-560bb0d7c6f8,Houston,1,21.14,Cancelled
+443,a44a9612-15a1-4cf6-82ac-694d1d851305,Chicago,12,49.26,No Show
+444,56f3873c-a9b2-4ec1-a01b-85a7da2bc285,San Francisco,0,23.2,Completed
+445,6e4debbd-6849-45fd-857b-7ae8080f8f54,Los Angeles,17,48.52,Cancelled
+446,b8cf1603-3015-498f-8637-a13490dea3c9,New York,5,48.16,No Show
+447,34d95917-734f-4b30-9995-b6eab90edd70,New York,18,34.35,No Show
+448,3e54aa11-ed16-4fea-a162-191a5a475778,Houston,18,8.59,Completed
+449,e3e3e29d-714e-4e7a-ab0c-25293a624a25,San Francisco,16,25.25,No Show
+450,7faa7d85-ed8c-4acd-81ae-8ee48dea4ea7,Chicago,7,18.2,No Show
+451,82b8a5c6-124f-445c-864f-71e5491d790d,New York,18,5.39,No Show
+452,7e2dd5b7-5c82-45ad-a17d-8ae9d102d701,Los Angeles,5,27.74,No Show
+453,6fec8da2-20cf-4ba2-a652-3b3985233d07,Los Angeles,21,18.79,Cancelled
+454,fbf6e238-36fa-4f55-a1cf-a4f2058709c3,Houston,11,38.33,Cancelled
+455,cbacc143-6ba3-42b2-b63e-255e048f7189,Los Angeles,6,37.97,No Show
+456,f4761706-a2f9-403e-b345-a91fc97b5e0e,New York,9,31.27,No Show
+457,7dcd3af6-35d0-4ca5-a20f-562367b03b4b,Chicago,22,26.54,Completed
+458,beb5e9a2-c2cd-4c61-90d6-c38dd5ba6223,New York,11,49.67,No Show
+459,9acd105f-57e3-4de8-9804-85259864ca3b,New York,5,49.03,No Show
+460,90deae5f-1814-4f67-b6cc-9409ffceda33,San Francisco,7,36.62,Cancelled
+461,a2a45d1d-7cdb-4ac4-9a00-609c9162ca9d,Chicago,4,47.59,No Show
+462,bd37369e-f2c5-4ebf-8722-7152334745ae,Houston,11,8.21,No Show
+463,c7755555-75ba-4587-b317-c21a1e910175,Houston,14,49.75,Completed
+464,e65dd3c6-eec5-47d5-a513-ef98a8f373a4,Houston,14,7.33,No Show
+465,d1d8ef48-57fe-4be0-87c0-99733775c375,Chicago,0,27.58,No Show
+466,744b29d2-be3f-4827-8cce-4507fb83aebc,Chicago,6,38.01,Completed
+467,2b2e818e-4049-4f28-94d8-d33fcc56b957,Houston,16,6.3,Completed
+468,fead8041-b531-43fb-9100-f7d76acc68d6,Houston,18,40.56,Cancelled
+469,4dc46b1f-04a5-40ba-82cc-19bc5a6fe552,Houston,7,9.03,No Show
+470,2bcc3cc0-0e60-44f5-9f3f-fa71644bbb9a,Houston,4,7.03,Completed
+471,782d080d-db1f-4f21-b56e-f020ffd6702f,Chicago,20,17.63,Cancelled
+472,f43066c0-6d9b-4072-9f93-22e72f6b84ba,New York,15,18.12,Cancelled
+473,9c2993e5-305c-4ce7-8729-8035bf361d70,San Francisco,18,40.69,Cancelled
+474,acc7abfa-0bfe-48bd-be81-6c7f6c9500a8,San Francisco,0,27.04,No Show
+475,4a62300b-747b-4434-b8bf-b614bfd5b699,Houston,2,27.91,No Show
+476,c3d0592e-6b37-4873-90ae-5fd685f62a44,Chicago,13,19.64,Completed
+477,e41872a4-e25a-4041-9ca8-adba7c54a8de,New York,12,8.48,Completed
+478,94e100ea-fa1b-45d7-a83e-08eec932110f,New York,16,6.18,Cancelled
+479,4d17f51b-c683-4599-bf02-e5c80b912f79,Los Angeles,21,16.8,No Show
+480,c2d22738-bc2c-491b-bda6-222fc3596344,Los Angeles,12,46.43,Cancelled
+481,8e70d416-0890-46d2-99d7-d6189a43339c,Chicago,14,23.37,No Show
+482,98f1e95d-98ff-4b69-b030-d5e40ddc97f2,San Francisco,21,48.32,No Show
+483,d4fb28ab-50ab-47eb-83ef-de29ec0bfd3e,Houston,4,22.81,Cancelled
+484,d3a6dc14-b325-48f8-bdee-e6f9688e5dac,New York,9,22.43,No Show
+485,d6cb804b-bcb2-43e0-bd34-a00d21b443de,New York,5,8.82,No Show
+486,c80be640-0e85-4ec0-a0b1-b31f79f1d10d,Los Angeles,13,46.81,No Show
+487,750c4abe-a9c9-4f9b-8058-0c2b4d7dbc90,San Francisco,5,45.7,Cancelled
+488,41f94e23-6a1b-49da-bc32-777c608db7ca,Houston,14,21.45,Completed
+489,19c45d80-da00-4369-a8ca-9e212b71089c,Los Angeles,11,14.79,Cancelled
+490,15c08b07-a579-49f5-ab4e-14d1f6b24cdf,Houston,10,39.04,Cancelled
+491,a44769a5-2774-406d-a0f8-2d37b552edd8,Los Angeles,15,49.79,Cancelled
+492,eee88d4f-5937-49f4-9017-758028273cf2,Los Angeles,11,9.2,Cancelled
+493,0ee0ed36-b038-4ec9-94b7-4e6f74004794,Chicago,1,43.8,No Show
+494,79620831-2a6b-46ae-a5ff-cc745e7e7292,Los Angeles,19,17.21,Completed
+495,98a7e0d0-6693-46c2-973e-faa47eb0a7c7,Los Angeles,16,41.11,Completed
+496,0420fc43-e2ee-4a69-82e7-59d98f39e236,Chicago,13,9.31,Cancelled
+497,ea13a3ec-6175-4fd6-b0f6-1539b50e622a,Los Angeles,7,27.85,Completed
+498,f6d6e732-19a5-4a32-9aaa-5deedf856040,New York,22,21.82,Completed
+499,f7faa9df-6b13-47cf-a1ad-fa6d6df0fe21,Houston,7,21.94,Cancelled
